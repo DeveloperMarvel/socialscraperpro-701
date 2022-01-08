@@ -1,0 +1,11 @@
+E:\project\SocialScraper\ScraperCore\bin\Release\ScraperCore.dll
+E:\project\SocialScraper\ScraperCore\bin\Release\ScraperCore.pdb
+E:\project\SocialScraper\ScraperCore\bin\Release\HtmlAgilityPack.dll
+E:\project\SocialScraper\ScraperCore\bin\Release\WebDriver.dll
+E:\project\SocialScraper\ScraperCore\bin\Release\WebDriver.Support.dll
+E:\project\SocialScraper\ScraperCore\bin\Release\HtmlAgilityPack.pdb
+E:\project\SocialScraper\ScraperCore\bin\Release\HtmlAgilityPack.xml
+E:\project\SocialScraper\ScraperCore\obj\Release\ScraperCore.csproj.CoreCompileInputs.cache
+E:\project\SocialScraper\ScraperCore\obj\Release\ScraperCore.csproj.CopyComplete
+E:\project\SocialScraper\ScraperCore\obj\Release\ScraperCore.dll
+E:\project\SocialScraper\ScraperCore\obj\Release\ScraperCore.pdb
